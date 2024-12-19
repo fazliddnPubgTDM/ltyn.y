@@ -1,0 +1,121 @@
+
+.main{
+    width: 650px;
+    height: 786px;
+    border-radius: 50px;
+    margin: 0 auto;
+}
+.nav{
+    width: 1440px;
+    height: 140px;
+    box-shadow: 10px 7px 20px black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 184px 0 171px;
+    
+}
+.logo{
+width: 175px;
+height: 47px;
+margin: 50px 100px;
+}
+.lang{
+display: flex;
+}
+.logo2{
+    width: 40px;
+    height: 40px;
+    margin: 13px 10px;
+}
+.contener{
+    width: 650px;
+    height: 786px;
+    margin: 30px auto;
+    border-radius: 50px;
+    box-shadow: 10px 7px 20px black;
+}
+.logo_mars{
+    width: 150px;
+    height: 40px;
+    margin: 60px 85px;
+}
+.registo{
+    display: flex;
+}
+.exit{
+    width: 27px;
+    height: 23px;
+    margin: 65px 15px;
+}
+.h2{
+    color: rgb(255, 0, 0);
+    margin-top: 65px;
+}
+.h1{
+    color: #0E0D5D;
+    margin: -10px 60px;
+    font-size: 35px;
+    width: 700px;
+    justify-content: center;
+    
+}
+.ota-onaman{
+width: 533px;
+height: 70px;
+margin: 0 auto;
+display: flex;
+align-items: center;
+}
+.Phone{
+    
+
+box-sizing: border-box;
+
+position: absolute;
+width: 533px;
+height: 70px;
+left: 650px;
+top: 550px;
+font-size: 30px;
+background: #FAFAFA;
+border: 1px solid rgba(117, 117, 117, 0.19);
+border-radius: 20px;
+
+}
+.password{
+box-sizing: border-box;
+
+position: absolute;
+width: 533px;
+height: 70px;
+left: 650px;
+top: 670px;
+font-size: 30px;
+background: #FAFAFA;
+border: 1px solid rgba(117, 117, 117, 0.19);
+border-radius: 20px;
+
+}
+.button{
+
+position: absolute;
+width: 202px;
+height: 67px;
+left: 1000px;
+top: 868px;
+border: 1px solid #F69E86 ;
+background: #F69E86;
+border-radius: 20px;
+
+}
+.h22{
+    margin: 275px 190px;
+}
+.jus{
+    display: flex;
+    justify-content: center;
+}
+.form{
+    display: block;
+}
